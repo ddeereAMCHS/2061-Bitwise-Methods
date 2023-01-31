@@ -1,6 +1,6 @@
 # Bitwise Methods
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Mon 2/6 at 11:59 PM
 
 - Create a program called `BitwiseMethods.java`
 - Write a method that takes an int as a parameter and returns the number of ones in the binary representation of that number
